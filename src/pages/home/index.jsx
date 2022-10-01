@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const Home = () => {
   return (
     <div className="container text-center home-page">
-      <div className="fs-3 fw-bold">Welcome to the Trivia challenge!</div>
+      <div className="fs-3 fw-bold">Welcome to the Quiz challenge!</div>
       <div className="fs-4">
         You will be presented with 10 true or false questions.
       </div>
